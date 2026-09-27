@@ -1,6 +1,6 @@
 # meta developer: @pixelazer_modules
 # meta banner: https://raw.githubusercontent.com/gardenyab/modules/refs/heads/main/assets/pixelazer_m_botcleaner.png
-# requirements: pixelazertl
+# requires: pixelazertl
 
 __version__ = (1, 1)
 
