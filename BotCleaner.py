@@ -1,8 +1,9 @@
 # meta developer: @pixelazer_modules
 # meta banner: https://raw.githubusercontent.com/gardenyab/modules/refs/heads/main/assets/pixelazer_m_botcleaner.png
-# requires: pixelazertl
+# requires: pixelazer-tl
+# pixelazer_min: 2.2.5
 
-__version__ = (1, 1)
+__version__ = (1, 2)
 
 from pixelazertl.errors import ChatAdminRequiredError, UserNotParticipantError
 from pixelazertl.tl.functions.channels import GetParticipantRequest
